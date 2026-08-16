@@ -297,6 +297,13 @@
         "category": "ai-news",
         "profile": "tech-news",
         "content_extractor": "trafilatura"
+      },
+      {
+        "name": "机器之心",
+        "url": "https://wechat2rss.xlab.app/feed/51e92aad2728acdd1fda7314be32b16639353001.xml",
+        "enabled": true,
+        "category": "ai-news",
+        "profile": "tech-news"
       }
     ],
     "reddit": {
