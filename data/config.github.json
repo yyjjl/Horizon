@@ -304,6 +304,76 @@
         "enabled": true,
         "category": "ai-news",
         "profile": "tech-news"
+      },
+      {
+        "name": "夕小瑶科技说",
+        "url": "https://wechat2rss.xlab.app/feed/a1cd365aa14ed7d64cabfc8aa086da40ecaba34d.xml",
+        "enabled": true,
+        "category": "ai-news",
+        "profile": "tech-news"
+      },
+      {
+        "name": "极客公园",
+        "url": "https://wechat2rss.xlab.app/feed/1a5aec98e71c707c8ca092bc2c255b9d4bac477d.xml",
+        "enabled": true,
+        "category": "ai-news",
+        "profile": "tech-news"
+      },
+      {
+        "name": "字节跳动技术团队",
+        "url": "https://wechat2rss.xlab.app/feed/4025ea55575daf8bfd8227e68b28d9638b073267.xml",
+        "enabled": true,
+        "category": "ai-engineering",
+        "profile": "tech-news"
+      },
+      {
+        "name": "美团技术团队",
+        "url": "https://wechat2rss.xlab.app/feed/eb4d04149424a874693a51c6fdda0dba8673f5e4.xml",
+        "enabled": true,
+        "category": "ai-engineering",
+        "profile": "tech-news"
+      },
+      {
+        "name": "腾讯技术工程",
+        "url": "https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml",
+        "enabled": true,
+        "category": "ai-engineering",
+        "profile": "tech-news"
+      },
+      {
+        "name": "阿里技术",
+        "url": "https://wechat2rss.xlab.app/feed/6e1f9b775f7a5841ac1a94310f0478b45a02ec01.xml",
+        "enabled": true,
+        "category": "ai-engineering",
+        "profile": "tech-news"
+      },
+      {
+        "name": "小米技术",
+        "url": "https://wechat2rss.xlab.app/feed/20bc9c3251b3c4f73d3b53aa1f1ab853d05d4cbc.xml",
+        "enabled": true,
+        "category": "ai-engineering",
+        "profile": "tech-news"
+      },
+      {
+        "name": "哔哩哔哩技术",
+        "url": "https://wechat2rss.xlab.app/feed/434235d4815fdb8447ff3127fc053ceb8b3aada6.xml",
+        "enabled": true,
+        "category": "ai-engineering",
+        "profile": "tech-news"
+      },
+      {
+        "name": "浅黑科技",
+        "url": "https://wechat2rss.xlab.app/feed/6111a6d5ecf28cfdd4fc9b664244c05ddacef15c.xml",
+        "enabled": true,
+        "category": "ai-news",
+        "profile": "tech-news"
+      },
+      {
+        "name": "机器学习初学者",
+        "url": "https://wechat2rss.xlab.app/feed/c5f385197ef56f9345db0daf1e46419af8c7d664.xml",
+        "enabled": true,
+        "category": "machine-learning",
+        "profile": "tech-news"
       }
     ],
     "reddit": {
