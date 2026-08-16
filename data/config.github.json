@@ -103,6 +103,48 @@
         "repo": "lm-evaluation-harness",
         "enabled": true,
         "profile": "tech-news"
+      },
+      {
+        "type": "repo_releases",
+        "owner": "huggingface",
+        "repo": "smolagents",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "type": "repo_releases",
+        "owner": "openai",
+        "repo": "openai-agents-python",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "type": "repo_releases",
+        "owner": "google",
+        "repo": "adk-python",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "type": "repo_releases",
+        "owner": "langchain-ai",
+        "repo": "langgraph",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "type": "repo_releases",
+        "owner": "NVIDIA",
+        "repo": "TensorRT-LLM",
+        "enabled": true,
+        "profile": "tech-news"
+      },
+      {
+        "type": "repo_releases",
+        "owner": "ollama",
+        "repo": "ollama",
+        "enabled": true,
+        "profile": "tech-news"
       }
     ],
     "hackernews": {
@@ -223,6 +265,38 @@
         "category": "ai-news",
         "profile": "tech-news",
         "content_extractor": "trafilatura"
+      },
+      {
+        "name": "Mistral News",
+        "url": "https://mistral.ai/news/rss",
+        "enabled": true,
+        "category": "ai-news",
+        "profile": "tech-news",
+        "content_extractor": "trafilatura"
+      },
+      {
+        "name": "Interconnects",
+        "url": "https://www.interconnects.ai/feed",
+        "enabled": true,
+        "category": "ai-news",
+        "profile": "tech-news",
+        "content_extractor": "trafilatura"
+      },
+      {
+        "name": "One Useful Thing",
+        "url": "https://www.oneusefulthing.org/feed",
+        "enabled": true,
+        "category": "ai-engineering",
+        "profile": "tech-news",
+        "content_extractor": "trafilatura"
+      },
+      {
+        "name": "The Decoder",
+        "url": "https://the-decoder.com/feed/",
+        "enabled": true,
+        "category": "ai-news",
+        "profile": "tech-news",
+        "content_extractor": "trafilatura"
       }
     ],
     "reddit": {
@@ -244,6 +318,24 @@
           "time_filter": "day",
           "fetch_limit": 15,
           "min_score": 60,
+          "profile": "tech-news"
+        },
+        {
+          "subreddit": "singularity",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 10,
+          "min_score": 50,
+          "profile": "tech-news"
+        },
+        {
+          "subreddit": "AI_Agents",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 10,
+          "min_score": 50,
           "profile": "tech-news"
         }
       ],
